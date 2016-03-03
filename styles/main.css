@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  background-color: #666;
 
 }
 
@@ -13,4 +14,17 @@ height: 100vh;
   background-color: #333;
   width: 280px;
   height: 100vh;
+}
+
+.content {
+  background-color: lightblue;
+  width: 700px;
+}
+
+.top-advertisement {
+  background-color: lightyellow;
+  height: 110px;
+  width: 100%;
+
+
 }
