@@ -1,30 +1,32 @@
 body {
   margin: 0;
-  background-color: #666;
-
+  background-image: url('http://lorempixel.com/1000/400');
+  background-size: 100% 150px;
+  background-repeat: no-repeat;
 }
-
 main {
-  background-color: red;
-width: 100vw;
-height: 100vh;
+  /*background-color: red;*/
+  width: 100vw;
+  height: 100vh;
 }
-
 .sidebar {
+border-top: 3px solid yellow;
   background-color: #333;
   width: 280px;
   height: 100vh;
+  float: left;
 }
 
+.sidebar h1 {
+  margin: 0;
+  background-image: url('');
+}
 .content {
   background-color: lightblue;
   width: 700px;
 }
-
 .top-advertisement {
   background-color: lightyellow;
   height: 110px;
   width: 100%;
-
-
 }
