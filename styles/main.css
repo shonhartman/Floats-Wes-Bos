@@ -39,6 +39,18 @@ border-top: 3px solid yellow;
   border-bottom: 1px solid #000;
 }
 
+.sidebar li a {
+  display: block;
+  width: 100%;
+  font-size: 1.2rem;
+  color: #fff;
+  text-transform: uppercase;
+  text-align: center;
+  text-decoration: none;
+  padding: 6px 0;
+
+}
+
 .content {
   background-color: lightblue;
   width: 700px;
