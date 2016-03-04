@@ -60,5 +60,19 @@ border-top: 3px solid yellow;
   background-color: lightyellow;
   height: 110px;
   width: 100%;
-  /*padding: 20px;*/
+  padding: 20px;
+}
+
+.top-advertisement img {
+  float: left;
+}
+
+.top-advertisement div {
+  float: left;
+  width: 562px;
+}
+
+.clearfix {
+  overflow: auto;
+  zoom: 1;
 }
