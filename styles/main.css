@@ -34,6 +34,11 @@ border-top: 3px solid yellow;
   padding: 0;
   list-style: none;
 }
+
+.sidebar li {
+  border-bottom: 1px solid #000;
+}
+
 .content {
   background-color: lightblue;
   width: 700px;
