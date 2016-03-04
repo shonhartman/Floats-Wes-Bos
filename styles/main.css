@@ -19,7 +19,14 @@ border-top: 3px solid yellow;
 
 .sidebar h1 {
   margin: 0;
-  background-image: url('');
+  background-image: url('http://wesbos.com/wp-content/themes/wb2014/i/crown-yellow.png');
+  background-size: 200px;
+  background-repeat: no-repeat;
+  background-position: center 20px;
+  text-align: center;
+  font-size: 4rem;
+  text-transform: uppercase;
+  color: #fff;
 }
 .content {
   background-color: lightblue;
